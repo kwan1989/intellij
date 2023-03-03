@@ -98,9 +98,13 @@
           <option name="url" value="https://stash.wemakeprice.com/scm/wsep/ws-review-ep-vertica-batch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.wemakeprice.com/scm/stra/wmp-ep.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/tf_ep_origin" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
