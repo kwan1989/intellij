@@ -4,6 +4,7 @@
       <mapping ext="php" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="php" approved="true" type="PHP" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
