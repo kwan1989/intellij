@@ -122,6 +122,10 @@
           <option name="url" value="https://stash.wemakeprice.com/scm/stra/naver-ep-real-time.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kwan1989/algorithm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
