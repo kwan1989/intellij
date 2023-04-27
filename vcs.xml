@@ -138,6 +138,26 @@
           <option name="url" value="https://stash.wemakeprice.com/scm/~kwan/study-kotlin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.wemakeprice.com/scm/wsep/embedded-vertica-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.wemakeprice.com/scm/wsep/lambda-image.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.wemakeprice.com/scm/wsep/lambda-teams.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.wemakeprice.com/scm/wsep/poc-streaming.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://stash.wemakeprice.com/scm/wsep/reminder.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
